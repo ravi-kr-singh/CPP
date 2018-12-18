@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517117535 source:c:\users\ravidon\desktop\c++prog\inheritance\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<stdlib.h>
+
+1528616124 source:c:\users\ravi\desktop\code\c++prog\inheritance\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<stdlib.h>
+
