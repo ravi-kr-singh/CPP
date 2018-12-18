@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512748097 source:c:\users\ravidon\desktop\c++prog\chapter1\main.cpp
+	<iostream>
+
+1516953283 source:c:\users\ravidon\desktop\c++prog\namespace\main.cpp
+	<iostream>
+	<sstream>
+

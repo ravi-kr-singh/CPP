@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512814935 source:c:\users\ravidon\desktop\c++prog\readinffile\main.cpp
+	<iostream>
+	<fstream>
+
