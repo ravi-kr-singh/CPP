@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513148139 source:c:\users\ravidon\desktop\c++prog\structureinc++\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+

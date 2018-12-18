@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512887458 source:c:\users\ravidon\desktop\c++prog\storingobjdatainfile\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
